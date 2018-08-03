@@ -6,6 +6,9 @@
 		
 		<a href="hello/showForm">Hello World Form</a>
 		
+		<br><br>
+		
+		<a href="student/showForm">Student Form</a>
 		<hr>
 		
 		<img src="${pageContext.request.contextPath}/resources/images/yoshi.jpeg"/>
