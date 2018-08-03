@@ -5,5 +5,9 @@
 		<hr>
 		
 		<a href="showForm">Hello World Form</a>
+		
+		<hr>
+		
+		<img src="${pageContext.request.contextPath}/resources/images/yoshi.jpeg"/>
 	</body>
 </html>
